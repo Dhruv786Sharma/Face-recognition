@@ -1,0 +1,32 @@
+.container
+{
+    background: lightblue;
+    color: blanchedalmond;
+}
+.heading
+{
+    width: 80%;
+    color: rgb(42, 165, 118);
+    font-size: 30px;
+    font-weight: bolder;
+}
+.name_of_objects
+{
+    color: brown;
+    font-weight: bold;
+    font-size: 15px;
+}
+#camera
+{
+    border: 2px black solid;
+    border-radius: 5px;
+    width: 300px;
+    height: 300px;
+}
+#result
+{
+    border: 2px goldenrod solid;
+    border-radius: 5px;
+    width: 300px;
+    height: 300px;
+}
